@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel version="1.0">
+    <folder folded="no" groupname="A" >
+        <title>Qt Resources 1</title>
+        <title>Qt Resources 2</title>
+        <folder folded="yes" groupname="a">
+            <title>Community Resources 1</title>
+            <title>Community Resources 2</title>
+        </folder>
+    </folder>
+    <folder folded="yes" groupname="B">
+        <title>Online Dictionaries</title>
+    </folder>
+</xbel>

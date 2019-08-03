@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>forms/input.txt</file>
+        <file>forms/textfinder.ui</file>
+        <file>forms/textfilter.ui</file>
+    </qresource>
+</RCC>
